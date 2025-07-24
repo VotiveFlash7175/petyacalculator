@@ -1,0 +1,206 @@
+.calculator{
+    font-size: 250px;
+    color: blue
+}
+.minicalculator{
+    font-size: 25px;
+    color: blue
+}
+.minitranslator{
+    font-size: 25px;
+    color: green
+}
+.translator{
+    font-size: 250px;
+    color: green
+}
+
+.trenagor{
+    font-size: 250px;
+    color: purple
+}
+
+.minitrenagor{
+    font-size: 25px;
+    color: purple
+}
+
+.minigal{
+    font-size: 25px;
+    color: green
+}
+
+.minicr{
+    font-size: 25px;
+    color: red
+}
+
+.operation{
+    max-width:10%
+}
+
+.system {
+    max-width:10%
+}
+.success {
+    color:Lime;
+    font-size:40px
+}
+.notsuccess {
+    color:red;
+    font-size:40px
+}
+
+.table-index{
+    font-size: 250px;
+    color: orange
+}
+
+.table-form
+{
+    font-size: 25px;
+}
+
+}
+.minitable{
+    font-size: 25px;
+    color: orange
+}
+
+.theme-table, .theme, .theme-wintable {
+    width: 850px;
+    height: 500px;
+}
+
+.theme-table {
+    border:0px;
+    table-layout: fixed;
+}
+
+.theme-wintable
+{
+    border:1px;
+    border-style:solid;
+    table-layout: fixed;
+}
+
+
+.theme {
+}
+
+.themesyst4 {
+    background:url("/static/img4.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst5 {
+    background:url("/static/img5.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst6 {
+    background:url("/static/img6.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst7 {
+    background:url("/static/img7.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+.themesyst8 {
+    background:url("/static/img8.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+.themesyst9 {
+    background:url("/static/img9.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+.themesyst10 {
+    background:url("/static/img10.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+.themesyst11 {
+    background:url("/static/img11.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+.themesyst12 {
+    background:url("/static/img12.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst13 {
+    background:url("/static/img13.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst14 {
+    background:url("/static/img14.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst15 {
+    background:url("/static/img15.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst16 {
+    background:url("/static/img16.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst17 {
+    background:url("/static/img17.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst18 {
+    background:url("/static/img18.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst19 {
+    background:url("/static/img19.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.themesyst20 {
+    background:url("/static/img20.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.allwhite {
+   background-color: white
+}
+
+.infotext{
+    width: 850px;
+    display:none;
+}
+
